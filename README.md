@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drezze
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning GDScript, working towards a game with Godot.
-- 💞️ I’m looking to collaborate on open world projects running in Godot, or Unreal Engine.
+- 🌱 I’m currently learning C++, working towards a game within Unreal Engine.
+- 💞️ I’m looking to collaborate on open world projects running in Unreal Engine.
 - 📫 You can reach me at crazy4dirtbikesss@gmail.com
 
 <!---
